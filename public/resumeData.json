@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Niket Nagwekar",
+    "description":"I am a web development engineer and I use React, Node.js and JAVA to develop pages with 2+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.",
+    "image":"profileImage.jpg",
+    "bio":"I am a Software Engineer enthusiatic to seek a challenging career and to be a part of an organization where I can work on & develop new products in the field of software, web-based applications which will enhance my knowledge & add to my experience where there is ample of opportunity for growth & development.   .",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "niket1409@gmail.com",
+    "phone": "99300-67804",
+    "github":"https://github.com/niketnagwekar",
+    "project":"https://github.com/niketnagwekar",
+    "address":{
+      "street":"Thane",
+      "city":"Thane",
+      "state":"Maharstra",
+      "zip": "400606"
+    },
+    "website": "#",
+    "resumedownload":"Niket.Nagwekar.doc",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/niket.nagwekar",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/niket-nagwekar-48070b17a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/the_devil_94/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/niketnagwekar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      
+      {
+        "school":"Smt. Sulochanadevi Singhania School",
+        "degree":"ICSE",
+        "graduated":"April 2010",
+        "description":""
+      },
+      {
+        "school":"Centre for developement for Advance Computing(CDAC)",
+        "degree":"PG Diploma in Advanced Computing (PG-DAC)",
+        "graduated":"Sep 2018",
+        "description":""
+      }
+      
+    ],
+    "work":[
+      
+      {
+        "company":"Morningstar India Pvt Ltd.",
+        "title":"Software Engineer",
+        "years":"Sep 2018 - Present",
+        "description":"Fullstack Dev having experience in developing web application using Core Java, Spring Framework with  Hibernate, Spring Boot, Spring REST, React.js, Node.js."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "src":"images/tech/java.jpg",
+        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming."
+      },
+      {
+        "name":"Node JS",
+        "src":"images/tech/node.jpg",
+        "description":"Node JS is my server-side scripting language of choice."
+      },
+      {
+        "name":"React Js",
+        "src":"images/tech/react.jpg",
+        "description":"I am fairly new to React. It has grown on me though and I will continue to use it going forward."
+      },
+      {
+        "name":"MongoDB",
+        "src":"images/tech/mongo.jpg",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Covid-19 Tracker",
+        "category":"Covid-19 Tracker",
+        "image":"Covidtracker_975x800.PNG",
+        "url":"https://covid-tracker-niket.herokuapp.com/"
+      },
+      {
+        "title":"YouTube-Clone",
+        "category":"My Personal Youtube Site",
+        "image":"you-tube.jpg",
+        "url":"https://youtube-cloneniketnagwekar.netlify.app/"
+      }
+      
+    ]
+  }
+}
